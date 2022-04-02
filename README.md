@@ -44,4 +44,7 @@ performance and earn higher post.
 * This will also directly affect the progress of the company.
 * With the help of Grid-Binding an Admin can easily update and delete the
 task, employee’s and customer detail.
+# E-R DIAGRAM
+![image](https://user-images.githubusercontent.com/97431540/161367245-baca39b0-8ea1-4f5b-ab5e-5c44bef94c29.png)
+
 
